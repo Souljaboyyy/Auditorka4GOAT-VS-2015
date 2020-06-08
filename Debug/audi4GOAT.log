@@ -1,0 +1,4 @@
+﻿  main.c
+d:\audi4goat\audi4goat\main.c(22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  audi4GOAT.vcxproj -> D:\audi4GOAT\Debug\audi4GOAT.exe
+  audi4GOAT.vcxproj -> D:\audi4GOAT\Debug\audi4GOAT.pdb (Partial PDB)
